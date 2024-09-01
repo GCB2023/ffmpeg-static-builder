@@ -1,6 +1,6 @@
 [submodule "ffmpeg"]
 	path = modules/ffmpeg
-	url = https://github.com/GCB2023/aclapFFmpeg.git
+	url = https://github.com/GCB2023/FFmpeg.git
 [submodule "ogg"]
 	path = modules/ogg
 	url = https://gitlab.xiph.org/xiph/ogg.git
